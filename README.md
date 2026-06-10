@@ -30,7 +30,7 @@ A targeted mask was created around the neck area and an inpainting workflow was 
 
 ## Architecture Diagram
 
-![Architecture Diagram](images/architecture-diagram.png)
+![Architecture Diagram](images/Architecture.png)
 
 ---
 
@@ -44,19 +44,27 @@ A targeted mask was created around the neck area and an inpainting workflow was 
 
 ### Original Image
 
-![Original](images/original-image.png)
-
-### Mask
-
-![Mask](images/mask.png)
+![Original](images/input.jpg)
 
 ### Final Output
 
-![Output](images/output-01.png)
+![Output](images/output_01.png)
 
-### Before & After
+---
+## Workflow -02 Graph
 
-![Comparison](images/before-after.png)
+![Workflow](images/workflow_02.png)
+
+---
+## Sample Outputs
+
+### Original Image
+
+![Original](images/input.jpg)
+
+### Final Output
+
+![Output](images/output_02.png)
 
 ---
 
