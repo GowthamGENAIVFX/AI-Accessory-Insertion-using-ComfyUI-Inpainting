@@ -149,3 +149,14 @@ natural appearance
 Gowtham Subramanian
 
 Generative AI Workflow Designer | Technical Artist | Senior Digital Compositor
+
+#### Connect
+
+LinkedIn:
+https://www.linkedin.com/in/gowtham-subramanian-9a141939b/
+
+Showreel:
+https://vimeo.com/858890877
+
+Email:
+[gowthamvfx150290@gmail.com](mailto:gowthamvfx150290@gmail.com)
