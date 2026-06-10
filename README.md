@@ -44,11 +44,11 @@ A targeted mask was created around the neck area and an inpainting workflow was 
 
 ### Original Image
 
-![Original](images/input.jpg)
+![Original](images/input.jpeg)
 
 ### Final Output
 
-![Output](images/output_01.png)
+![Output](images/output.png)
 
 ---
 ## Workflow -02 Graph
@@ -60,7 +60,7 @@ A targeted mask was created around the neck area and an inpainting workflow was 
 
 ### Original Image
 
-![Original](images/input.jpg)
+![Original](images/input.jpeg)
 
 ### Final Output
 
