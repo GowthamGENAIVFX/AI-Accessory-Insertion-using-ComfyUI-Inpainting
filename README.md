@@ -1,5 +1,3 @@
-# README.md
-
 # AI Accessory Insertion using ComfyUI Inpainting
 
 A production-oriented ComfyUI workflow designed to perform localized image editing using AI Inpainting.
